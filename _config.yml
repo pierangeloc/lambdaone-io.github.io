@@ -13,7 +13,7 @@ timezone: Europe/Amsterdam
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: www.lambdaone.io
+url: lambdaone-io.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,6 +79,6 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lambdaone-io/lambdaone-io.github.io.git
+  repo: https://github.com/lambdaone-io/lambdaone-io.github.io
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"

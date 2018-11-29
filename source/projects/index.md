@@ -15,11 +15,9 @@ date: 2018-11-11 22:02:49
 We give free training to the greater public and to ourselves. At this point, to the greater public we do it through meetups, twitch.tv stream trainings, and videos in youtube. We also have an apprenticeship program, where we personally tutorship individuals, and also serves as a method for recruiting to our community.
 
 ## Development of Kratia
-The notion of community is everywhere in humanity: families, organisations or governments, they all are groups which success is mainly determined by how well they make decisions in collaboration, and how fast the structure of the community adapts to their ecosystem.
+The nascent distributed communities and organizations around the globe deserve a tool to help them perform, grow and succeed. 
 
-Kratia empowers these communities by enabling them with digital governance. It helps the communities grow, evolve and adapt by offering lego blocks for the decision-making process, that is, options to the way influence is distributed to the members, options to the way a decision is resolved once members have voted for proposals, and finally options to the automatization of the decision making process and how the decisions take effect. 
-
-There are several exciting industries which would benefit: open software projects, blockchain networks, digital nomad groups, small and big companies, NGOs, distributed autonomous organizations, governments. Also exciting possible features: webhooks for automation, automatic transparency, sub-communities for scaling, composition and combination of complex decision systems, open data for research on governance systems.
+The success of small and big communities alike is mainly determined by their ability to make decisions in collaboration. Kratia provides the blocks required to design, build and evolve successful digital governance, by offering conceptual and digital tools that enable any type of community to make decisions and automate on top of them. 
 
 Kratia is Lambda One current main project, and we would like to use it to empower our own community as well.
 

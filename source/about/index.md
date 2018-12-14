@@ -45,6 +45,7 @@ We believe that the world's biggest challenges can be solved using the power of 
 - Reach our first 2 goals on [Patreon](https://patreon.com/lambdaone)
 - Unite at least 1 other Meetup
 - Massive improvements to our [Youtube content](https://www.youtube.com/channel/UCaPcH32caKrXgTRwuz3nkrg)
+- First demo of accepting merge requests on a GitHub repo using [Kratia](https://github.com/lambdaone-io/kratia-centralized)
 - First open source contribution incentives system
 
 ## What you can do today

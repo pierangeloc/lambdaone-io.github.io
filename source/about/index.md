@@ -3,23 +3,64 @@ title: about
 date: 2018-11-11 21:23:40
 ---
 
-### Who we are
-Lambda One is a community with high appreciation for the study of mathematics and computer science, and its application on solving some of the complex challenges that humanity faces. Lambda One focuses on forming elite system designers and programmers, and channel their skills on projects of positive impact.
+## Our Community
 
-Why? Because it is challenging, fun and we want to be part of an exciting future.
+_Mathematics, software development, system designing... these are the most powerful tools nowadays, and we can become an unstoppable force if we nourish the basic values of collaboration._
 
-## Fundamental Values and Mission
-Lambda One follows the Vidtecci Ideology, that is, we believe that science and technology brings great power to humanity, and as scientists and engineers it is our responsibility to harness such power in favor of protecting and extending life. Lambda One aligns to this core ideology and specializes on forming elite system designers and programmers, and develops software that empowers humans to live in better symbiotic relationship with each other and the rest of nature.
+We believe that the world's biggest challenges can be solved using the power of reason, technology and **collaboration**. We form elite system designers and channel their skills to the development of impactful projects. By offering free training and educational content, by developing internal projects, and collaborating with communities and organizations. 
 
-## Attributes of a Member
-1. Love for the abstract in nature, curious at heart.
-2. Love for challenges, in constant search to solve and build.
-3. Love for constant self improvement.
-4. Goodwill, we belong to Lambda One, our family, and as a family, to a greater humanity.
+**We: engineers, scientists, mathematicians, system designers, we shape paradigms and the path of humanity**, we’ve been doing it for millennia; yet it is the first time in history that our ability to create technology, is more powerful than money or influence, and therefore we must collaborate together.
 
-## Vision
-For the near future the objectives of Lambda One are:
-- To reach a position of economic self sustain through the monetization of consultancy services and the Kratia platform. 
-- Grow in members without losing the core principles. 
-- To use Kratia as a tool to manage our treasury, our members and our projects. 
-- And finally to increase the amount of trainings and projects that we can handle.
+**We want to be excited about our work**, by making common the usage of more advanced and interesting technologies, through sharing knowledge, training our peers and influencing the industry.
+
+**We have the chance to solve bigger and more exciting problems**, by supporting the open source software community and social impact projects, through participation in our hackathons, on our sub-communities and with our partners.
+
+**We have a bigger purpose**, we love when our creations have users, but the notion of fulfilment is bigger when we help economies grow, communities to self govern, or families to have real opportunities... when we bring real value to humanity.
+
+## What we do
+
+- [Give free training](https://www.meetup.com/lambda1-fp-academy-ams/)
+- Share knowledge
+- Make hackathons
+- [Write open source software](https://github.com/lambdaone-io)
+- Help with technology adoption
+- Incubate projects
+- [Enable the open source community with digital governance](https://github.com/lambdaone-io/kratia-model/blob/master/the-basic-model.md)
+- Partner with communities and organisations
+- Partner with incubators
+
+## What we have right now:
+
+- [Workshops every week](https://www.meetup.com/lambda1-fp-academy-ams/)
+- [Youtube content](https://www.youtube.com/channel/UCaPcH32caKrXgTRwuz3nkrg)
+- [Discord community](https://discord.gg/kpyPGhE)
+- [Kratia](https://github.com/lambdaone-io/kratia-centralized)
+- [Patreon](https://patreon.com/lambdaone)
+
+## What we want to achieve on Q1 2019
+
+- Start doing 2 weekly Scala workshop
+- Start doing 1 weekly Haskell/[Plutus](https://github.com/input-output-hk/plutus) workshop
+- Start doing 1 monthly hackathon focused on contributions to the open source software community
+- Reach our first 2 goals on [Patreon](https://patreon.com/lambdaone)
+- Unite at least 1 other Meetup
+- Massive improvements to our [Youtube content](https://www.youtube.com/channel/UCaPcH32caKrXgTRwuz3nkrg)
+- First open source contribution incentives system
+
+## What you can do today
+
+- Be part of the community by participating, joining Discord, assisting to our events, and helping spread the word
+- Get involved in our open source projects
+- Consider becoming a trainer
+- Consider contributing to our [Patreon page](https://patreon.com/lambdaone)
+
+
+
+
+
+
+
+
+
+
+

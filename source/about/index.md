@@ -7,13 +7,13 @@ date: 2018-11-11 21:23:40
 
 _Mathematics, software development, system designing... these are the most powerful tools nowadays, and we can become an unstoppable force if we nourish the basic values of collaboration._
 
-We believe that the world's biggest challenges can be solved using the power of reason, technology and **collaboration**. We form elite system designers and channel their skills to the development of impactful projects. By offering free training and educational content, by developing internal projects, and collaborating with communities and organizations. 
+We believe that the world's biggest challenges can be solved using the power of reason, technology and **collaboration**. We form elite system designers and channel their skills to the development of impactful projects. By offering free training and educational content, by developing internal projects, and collaborating with communities and organisations. 
 
-**We: engineers, scientists, mathematicians, system designers, we shape paradigms and the path of humanity**, we’ve been doing it for millennia; yet it is the first time in history that our ability to create technology, is more powerful than money or influence, and therefore we must collaborate together.
+**We: engineers, scientists, mathematicians, system designers, we shape paradigms and the path of humanity**, we’ve been doing it for millennia; yet it is the first time in history that our ability to create technology is more powerful than money or influence, and therefore we must collaborate together.
 
-**We want to be excited about our work**, by making common the usage of more advanced and interesting technologies, through sharing knowledge, training our peers and influencing the industry.
+**We want to be excited about our work**, by making common the usage of more advanced and interesting technologies through sharing knowledge, training our peers and influencing the industry.
 
-**We have the chance to solve bigger and more exciting problems**, by supporting the open source software community and social impact projects, through participation in our hackathons, on our sub-communities and with our partners.
+**We have the chance to solve bigger and more exciting problems**, by supporting the open source software community and social impact projects through participation in our hackathons, on our sub-communities and with our partners.
 
 **We have a bigger purpose**, we love when our creations have users, but the notion of fulfilment is bigger when we help economies grow, communities to self govern, or families to have real opportunities... when we bring real value to humanity.
 

@@ -25,6 +25,10 @@ Functional programmers are always buzzing about purity, but how are we even able
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFb5ILLtD-4MAxpobDdB68dJFdj8I37El41LtwpHov-wR3gltPIEpVcyWMTlyt8ExX75HA7pLkh9j0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 {% endraw %}
 
+## Group Photo!
+
+![group image](https://pbs.twimg.com/media/DvCwL__WkAA4ugx.jpg:large "Group Image!")
+
 ## Contribution
 
 Please consider helping us to bring more and better events by becoming a [Patreon](https://patreon.com/lambdaone)!

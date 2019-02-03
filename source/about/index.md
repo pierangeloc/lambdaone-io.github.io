@@ -33,9 +33,9 @@ Francisco is a software development contractor with professional experience of m
 ### Pierangelo Cecchetto
 #### Engineer - Amsterdam, NL
 
-Pierangelo is a software development contractor with 15 years of experience, mostly using Java, since 2015 using Scala.
+Pierangelo is a software development contractor with 15 years of experience on JVM languages, using Scala since 2013.
 He studied Telecommunications Engineering in Padova, Italy.
-His interests are functional programming (Scala, Haskell, Purescript), mathematics and theory of dynamical systems.
+His interests are functional programming (Scala, Eta, Haskell, Purescript) and distributed architectures, mathematics and theory of dynamical systems.
 He is an amateur baker and fingerstyle guitar player.
 
 * [Website](https://tuliplogic.io)

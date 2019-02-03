@@ -34,9 +34,7 @@ Francisco is a software development contractor with professional experience of m
 #### Engineer - Amsterdam, NL
 
 Pierangelo is a software development contractor with 15 years of experience on JVM languages, using Scala since 2013.
-
 He studied Telecommunications Engineering in Padova, Italy.
-
 His interests are functional programming (Scala, Eta, Haskell, Purescript) and distributed architectures, mathematics and theory of dynamical systems.
 
 He is an amateur baker and fingerstyle guitar player.

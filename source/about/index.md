@@ -38,7 +38,6 @@ He studied Telecommunications Engineering in Padova, Italy.
 His interests are functional programming (Scala, Eta, Haskell, Purescript) and distributed architectures, mathematics and theory of dynamical systems.
 He is an amateur baker and fingerstyle guitar player.
 
-* [Website](https://tuliplogic.io)
 * [LinkedIn](https://www.linkedin.com/in/pierangelo-cecchetto/)
 * [Twitter](https://twitter.com/pierangelocecc)
 * [GitHub](https://github.com/pierangeloc)

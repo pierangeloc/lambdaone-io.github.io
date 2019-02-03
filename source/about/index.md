@@ -29,3 +29,16 @@ Francisco is a software development contractor with professional experience of m
 * [LinkedIn](https://www.linkedin.com/in/francisco-miguel-ar%C3%A1mburo-torres-0a340485/)
 * [Twitter](https://twitter.com/francoaramburo)
 * [GitHub](https://github.com/francoara)
+
+### Pierangelo Cecchetto
+#### Engineer - Amsterdam, NL
+
+Pierangelo is a software development contractor with 15 years of experience, mostly using Java, since 2015 using Scala.
+He studied Telecommunications Engineering in Padova, Italy.
+His interests are functional programming (Scala, Haskell, Purescript), mathematics and theory of dynamical systems.
+He is an amateur baker and fingerstyle guitar player.
+
+* [Website](https://tuliplogic.io)
+* [LinkedIn](https://www.linkedin.com/in/pierangelo-cecchetto/)
+* [Twitter](https://twitter.com/pierangelocecc)
+* [GitHub](https://github.com/pierangeloc)

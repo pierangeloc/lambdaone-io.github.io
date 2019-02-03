@@ -7,9 +7,9 @@ date: 2018-11-11 21:23:40
 
 **We engineers, mathematicians, system designers, we shape paradigms and the path of humanity**, we’ve been doing it for millennia; yet it is the first time in history that our ability to create technology is more powerful than money or influence, and therefore we must collaborate together.
 
-**We want to be excited about our work**, by making common the usage of more advanced and interesting technologies through sharing knowledge, training our peers and influencing the industry.
+**We want to be excited about our work**, by making common the usage of more advanced and interesting technologies, through sharing knowledge, training our peers and influencing the industry.
 
-**We have the chance to solve bigger and more exciting problems**, by giving contracting services, supporting the open source software community and social impact projects.
+**We have the chance to solve more significant and exciting problems**, by giving contracting services, supporting the open source software community and social impact projects.
 
 ## What we do
 
